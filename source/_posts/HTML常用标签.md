@@ -1,11 +1,16 @@
 ---
 title: HTML常用标签
 date: 2018-05-14 16:10:36
-tags:
+tags: 标签
 ---
 ## iframe
-- HTML内联框架元素 `<iframe>` 表示嵌套的浏览上下文，有效地将另一个HTML页面嵌入到当前页面中`<iframe src="https://www.baidu.com" name=xxx frameborder="0"></iframe>`，`frameborder="0"`表示没有边框。常见的属性有`name`嵌入的浏览上下文（框架）的名称。该名称可以用作`<a>`标签，`<form>`标签的target属性值，或`<input>` 标签和 `<button>`标签的formtaget属性值。
-- `src=""`可以写相对路径src="./index2.html"
+ - `<iframe>` 表示嵌套的浏览上下文，有效地将另一个HTML页面嵌入到当前页面中
+ - 常见的属性有`name`嵌入的浏览上下文（框架）的名称。该名称可以用作`<a>`标签，`<form>`标签的target属性值，或`<input>` 标签和 `<button>`标签的formtaget属性值。
+ - `src=""`可以写相对路径src="./index2.html"
+ 
+ 
+ - `<iframesrc="https://www.baidu.com" name=xxx frameborder="0"></iframe>`，`frameborder="0"`表示没有边框。
+
 - 与`<a>`一起用 
     `<iframe src="#" name=xxx></iframe><a herf="https://www.baidu.com" tarage=xxx>baidu<a>`
 ## a
