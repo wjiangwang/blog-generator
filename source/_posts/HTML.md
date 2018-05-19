@@ -125,7 +125,7 @@ MDN Web Docs（旧称Mozilla Developer Network、Mozilla Developer Center，简�
 - `<summary>` 代表 `<details>` 元素的综述 或标题 。
 - `<menuitem>` 代表一个用户可以点击的菜单项。
 - `<menu>` 代表菜单。
-##### 另请参阅
+##### 另请参考
 * [HTML 元素参考](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)
 * [一系列 HTML5 文档。](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5) 
 * [所有 HTML 标签的参考，](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element)包括 HTML5 中不再有效的元素。
