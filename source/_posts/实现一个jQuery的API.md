@@ -32,8 +32,8 @@ window.jQuery = function (nodeOrSelector) {
                 let temp = document.querySelectorAll(nodeOrSelector)
                 for (let i = 0; i < temp.length; i++) {
                     nodes[i] = temp[i]
-                    nodes.length = temp.length
-                }
+                }   
+                   nodes.length = temp.length
 
             } else if (nodeOrSelector instanceof Node) {
                 nodes = {
